@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kart2004&label=Profile%20views&color=0e75b6&style=flat" alt="kart2004" /> </p>
 
-- 🔭 I’m currently working on projects and learning new technology.
+- 🔭 I’m currently working on exploring emerging technology and creating exciting projects.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development and Machime Learning**
 
