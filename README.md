@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on exploring emerging technology and creating exciting projects.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development and Machime Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/karthik-prakash-286723248](www.linkedin.com/in/karthik-prakash-286723248)
 
